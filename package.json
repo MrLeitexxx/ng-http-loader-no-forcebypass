@@ -1,5 +1,5 @@
 {
-  "name": "ng-http-loader",
+  "name": "@lgauci/ng-http-loader",
   "version": "13.0.0",
   "scripts": {
     "ng": "ng",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mpalourdio/ng-http-loader"
+    "url": "git+https://github.com/MrLeitexxx/ng-http-loader-no-forcebypass"
   },
   "author": {
     "name": "Michel Palourdio",
@@ -31,7 +31,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mpalourdio/ng-http-loader/issues"
+    "url": "https://github.com/MrLeitexxx/ng-http-loader-no-forcebypass/issues"
   },
   "dependencies": {
     "tslib": "^2.3.0"
