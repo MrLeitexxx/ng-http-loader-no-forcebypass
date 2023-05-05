@@ -26,6 +26,7 @@ export class SpinnerVisibilityService {
     }
 
     show(): void {
+        //always false
         this.pendingRequestsInterceptor.forceByPass = false;
         this._visibility$.next(true);
     }
